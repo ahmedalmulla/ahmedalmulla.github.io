@@ -52,8 +52,7 @@ p, a {font-weight: 400;}
 /* Home */
 #index_banner {
   background-image: url('./../img/banner-bg-01.jpg');
-  background-position: center center; background-size: cover;
-  height: 100%;
+  height: auto;
   min-height: 60vh;
   width: 100%;
 }
@@ -71,7 +70,7 @@ p, a {font-weight: 400;}
 }
 #index_banner .carousel-indicators li,
 #index_banner .carousel-indicators.active {
-  background-color: #6266ea !important;
+  background-color: #8576b4 !important;
 }
 .service-wrapper .service-footer {
   max-width: 720px;

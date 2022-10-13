@@ -4,5 +4,9 @@ Custom CSS for TemplateMo 561 Purple Buzz
 https://templatemo.com/tm-561-purple-buzz
 
 */
-
+.banner-bg-01 {
+    width: 100%;
+    max-width: auto;
+    height: auto;
+  }
 
